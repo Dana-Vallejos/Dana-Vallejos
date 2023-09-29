@@ -1,4 +1,4 @@
-<img width="100%" height="200px" src="https://media.licdn.com/dms/image/D4E16AQHASYoOoOONPw/profile-displaybackgroundimage-shrink_350_1400/0/1689572998295?e=1701302400&v=beta&t=20Neu8HbTRO7pD4waa5l89Z6fssHqF7BIxivK6Zm0YY">   
+<img width="100%" height="230px" src="https://media.licdn.com/dms/image/D4E16AQHASYoOoOONPw/profile-displaybackgroundimage-shrink_350_1400/0/1689572998295?e=1701302400&v=beta&t=20Neu8HbTRO7pD4waa5l89Z6fssHqF7BIxivK6Zm0YY">   
 
 <h1 align="left">Hi 👋, I'm Dana</h1>
 <p align="left">Software Engineering Student passionate about crafting innovative digital solutions. Skilled in designing and building intuitive interfaces and experiences. Seeking to apply my abilities to create user-friendly and effective products. Eager to continue expanding my development skills and collaborate on impactful projects</p>
@@ -26,6 +26,10 @@
 &nbsp;
 <h2 align="left">📊 GitHub Stats: </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-Vallejos&layout=donut&theme=midnight-purple)](https://github.com/Dana-Vallejo/github-readme-stats)
-
+<a href="https://github.com/Dana-Vallejos/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dana-Vallejos&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&hide=&hide_border=true" />
+</a>
+<a href="https://github.com/Dana-Vallejos/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dana-Vallejos&theme=midnight-purple&show_icons=true&hide_border=true&hide_rank=true&hide=contribs&show=prs_merged" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
