@@ -1,4 +1,4 @@
-<img width="100%" height="100%" src="https://media.licdn.com/dms/image/D4E16AQHASYoOoOONPw/profile-displaybackgroundimage-shrink_350_1400/0/1689572998295?e=1701302400&v=beta&t=20Neu8HbTRO7pD4waa5l89Z6fssHqF7BIxivK6Zm0YY">   
+ 
 
 <h1 align="left">Hi 👋, I'm Dana</h1>
 <p align="left">Software Engineering Student passionate about crafting innovative digital solutions. Skilled in designing and building intuitive interfaces and experiences. Seeking to apply my abilities to create user-friendly and effective products. Eager to continue expanding my development skills and collaborate on impactful projects</p>
